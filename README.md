@@ -1,2 +1,2 @@
 # Implementation-of-Graph-kernels
-Code written by reading A survey on Graph Kernels
+Implementation of Graph Kernels from Scratch while reading 'A survey on Graph Kernels'
